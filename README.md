@@ -13,6 +13,8 @@ Official repository for "Selective-Kernel UNets for Building Damage Assessment i
 * keras
 
 
+The codes are not very clean, since they were used to make many experiments for the paper. If you have any questions in implementing the codes or getting your results, feel free to ask me on an Issue, or by emailing me on cpt.ahmadisnipiol@yahoo.com .
+
 ## Citation
 ```
 https://doi.org/10.3390/rs16010182
