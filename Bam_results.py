@@ -284,8 +284,3 @@ for i in [12, 16, 24, 27, 30, 34]:
     # ax[1, 2].imshow(post[0])
     # plt.tight_layout()
     # plt.show()
-
-
-
-# conda activate E:/Ahmadi/KerasEnv
-# cd E:/Ahmadi/PaperProject
