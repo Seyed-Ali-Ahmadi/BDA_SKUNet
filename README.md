@@ -12,8 +12,18 @@ Official repository for "Selective-Kernel UNets for Building Damage Assessment i
 * segmentation-models
 * keras
 
+## Examples
+Some notebook examples can be found under the Notebooks folder. They are simple experiments that I used to prepare the final codes. You may find different variations of codes or parameters in them. 
+Feel free to run them cell-by-cell and get your own outputs. The only things that you need to be able to run the codes, is:
 
-The codes are not very clean, since they were used to make many experiments for the paper. If you have any questions in implementing the codes or getting your results, feel free to ask me on an Issue, or by emailing me on cpt.ahmadisnipiol@yahoo.com .
+1. the xBD dataset in a specified directory, 
+2. the data_properties file downloaded in a directory,
+3. changing the required paths in the code to those you want.
+
+Please let me know if there are further questions.
+
+
+:star: NOTE: The codes are not very clean, since they were used to make many experiments for the paper. If you have any questions in implementing the codes or getting your results, feel free to ask me on an Issue, or by emailing me on cpt.ahmadisnipiol@yahoo.com .
 
 ## Citation
 ```
